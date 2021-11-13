@@ -19,7 +19,7 @@ The directory structure is as follows:
 |        |____ implementations as jupyter notebooks        
 ```
 
-### Assignment wise architecture Details     
+### Assignment wise algorithmic details     
 1. 1. Linear Regression
    2. Locally Weighted Linear Regression
    3. Logistic Regression
